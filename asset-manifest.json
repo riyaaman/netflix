@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflix/static/css/main.6e19c756.chunk.css",
+    "main.js": "/netflix/static/js/main.711a10d7.chunk.js",
+    "main.js.map": "/netflix/static/js/main.711a10d7.chunk.js.map",
+    "runtime-main.js": "/netflix/static/js/runtime-main.86d18631.js",
+    "runtime-main.js.map": "/netflix/static/js/runtime-main.86d18631.js.map",
+    "static/js/2.b911bb90.chunk.js": "/netflix/static/js/2.b911bb90.chunk.js",
+    "static/js/2.b911bb90.chunk.js.map": "/netflix/static/js/2.b911bb90.chunk.js.map",
+    "index.html": "/netflix/index.html",
+    "static/css/main.6e19c756.chunk.css.map": "/netflix/static/css/main.6e19c756.chunk.css.map",
+    "static/js/2.b911bb90.chunk.js.LICENSE.txt": "/netflix/static/js/2.b911bb90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86d18631.js",
+    "static/js/2.b911bb90.chunk.js",
+    "static/css/main.6e19c756.chunk.css",
+    "static/js/main.711a10d7.chunk.js"
+  ]
+}
